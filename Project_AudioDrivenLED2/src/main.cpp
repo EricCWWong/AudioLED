@@ -13,8 +13,6 @@ Number of LEDs strips: 5
 Number of LEDs per strip: 25
 Power supply: 5V
 
-Version: 1.0.0
-
 Written by Eric Wong and Thomas Dance.
 */
 
