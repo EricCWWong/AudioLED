@@ -32,7 +32,7 @@ Written by Eric Wong and Thomas Dance.
 #define PIN3 27 //Pin number for the 3rd LED strip.
 #define PIN4 28 //Pin number for the 4th LED strip.
 #define PIN5 29 //Pin number for the 5th LED strip.
-#define VOLUME 0.50 //Default volume.
+#define VOLUME 0.60 //Default volume.
 
 
 //Global variables:
